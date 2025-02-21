@@ -1,4 +1,4 @@
-package common
+package v1
 
 type Pet struct {
 	ID      string
@@ -12,4 +12,4 @@ type Appointment struct {
 	PetID  string
 	Time   string
 	Status string
-} 
+}
